@@ -6,5 +6,5 @@ be parsed automatically.
 
 To use the program itself, you will be prompted to input a pattern.  This pattern will simply consist of any letters that you know, and 
 any gaps are filled with a "_" character.  For example, if the correct answer I was trying to find was "ability" but I only knew the 
-first and last letters, I would type in "a_____y" and the program will output a list of available words that fit that pattern.  From 
+first and last letters, I would type in `a_____y` and the program will output a list of available words that fit that pattern.  From 
 there you can use the hints from the crossword itself to help you narrow down the list of words to the correct answer.
