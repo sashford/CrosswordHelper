@@ -1,7 +1,3 @@
-# Ignoring WordLists directory contents so that user
-# can simply copy their files into the existing WordLists directory
-WordLists/*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
