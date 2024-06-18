@@ -19,7 +19,8 @@ if __name__ == '__main__':
             print("\nExiting Program")
             exit = True
         else:
+            print("Possible words:")
             for word in wordlist.parse(pattern):
-                print(word)
+                print("    " + word)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
